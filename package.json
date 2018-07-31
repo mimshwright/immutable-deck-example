@@ -6,6 +6,7 @@
     "immutable-deck": "^1.0.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-flippy": "^0.1.2",
     "react-scripts": "1.1.4"
   },
   "scripts": {

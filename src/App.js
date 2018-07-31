@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <div className="table">
           <Card value={"queen"} suit={"hearts"} />
-          <Card value={"7"} suit={"clubs"} visible={false} />
+          <Card value={"7"} suit={"clubs"} isFlipped={true} />
         </div>
       </div>
     );
